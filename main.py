@@ -1,6 +1,9 @@
 import pygame
 from pygame.locals import *
 
+#Tyler Matthews
+#4/18/19
+
 #Global Variables
 (WIDTH, HEIGHT) = (480, 480)
 WHITE = (255,255,255)
